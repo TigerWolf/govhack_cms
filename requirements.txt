@@ -1,0 +1,16 @@
+Django
+django-cms
+djangocms-installer
+djangocms-text-ckeditor
+djangocms-style
+djangocms-column
+djangocms-file
+djangocms-flash
+djangocms-googlemap
+djangocms-inherit
+djangocms-link
+djangocms-picture
+djangocms-teaser
+djangocms-video
+django-reversion
+cms-bootstrap-templates
